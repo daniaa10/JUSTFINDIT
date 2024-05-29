@@ -1,6 +1,6 @@
-# flutterfirebase
+# JUSTFINDIT
 
-A new Flutter project.
+Our system “JUST FIND IT!” is designed for helping users such as students, staff, and visitors in our university.
 
 ## Getting Started
 
